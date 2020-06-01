@@ -1,1 +1,1 @@
-https://mrepol742.github.io/webvium
+https://raw.githubusercontent.com/mrepol742/Webvium/master/download/test/Webvium.signed.apk
