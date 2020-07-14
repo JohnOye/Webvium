@@ -1,5 +1,5 @@
 # Webvium
-Your professional and smartiest android web browser
+The Revolutionary Android Web Browser
 
 ## Under Development
 
